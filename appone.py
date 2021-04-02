@@ -1,4 +1,6 @@
 ## ATM machine project that allows user to withdraw, deposit, or make a complaint.
+## Updates balance
+
 name = input("What is your username?  \n")
 allowedUsers = ['Seyi', 'Mike', 'Love']
 allowedPassword = ['passwordSeyi', 'passwordMike', 'passwordLove']
